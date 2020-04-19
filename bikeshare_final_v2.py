@@ -17,6 +17,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!  Your input can be uppercase or lowercase')
+    print('Please spell out the name of city, month, day, etc... as you make your selections')
     cityname = ["chicago", "new york", "washington"]
     choices = ['month', 'day', 'both','none']
     monthchoice = ['january', 'february', 'march', 'april', 'may', 'june']

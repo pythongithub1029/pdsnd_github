@@ -17,3 +17,4 @@ Credits to the course martials with details.  Also some links below:
 #http://www.datasciencemadesimple.com/concatenate-two-columns-dataframe-pandas-python-2/
 #https://www.geeksforgeeks.org/python-pandas-dataframe-sum/
 #https://stackoverflow.com/questions/41286569/get-total-of-pandas-column
+#https://stackoverflow.com/questions/37625334/python-pandas-convert-month-int-to-month-name

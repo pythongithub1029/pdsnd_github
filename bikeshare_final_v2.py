@@ -1,3 +1,8 @@
+"""
+Project Description:
+Compare the system usage of 6 months data between three large cities: Chicago,
+New York City, and Washington DC.
+"""
 import time
 import calendar
 import pandas as pd
